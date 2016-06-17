@@ -10,8 +10,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>com-ganuser-practice-jdk</module>
         <module>com-gansuer-practice-java8</module>
+        <module>com-ganuser-practice-other</module>
+
     </modules>
 
     <dependencyManagement>
