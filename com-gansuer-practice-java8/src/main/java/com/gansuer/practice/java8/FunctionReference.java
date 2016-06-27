@@ -31,7 +31,6 @@ public class FunctionReference {
                 System.out.print(item + " ");
             }
         });
-
         System.out.println();
     }
 }
