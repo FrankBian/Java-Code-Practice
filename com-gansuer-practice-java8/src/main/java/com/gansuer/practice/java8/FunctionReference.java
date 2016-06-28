@@ -24,7 +24,6 @@ public class FunctionReference {
         eval(list, n -> n > 5);
 
     }
-
     public static void eval(List<Integer> list, Predicate<Integer> predicate) {
         list.forEach(item -> {
             if (predicate.test(item)) {
